@@ -6,6 +6,8 @@
 
 # TODO hunt and destroy two consecutive spaces
 
+# TODO remove repeated commas: ,,
+
 # Bluebook (and other legal writing):
 
 # TODO make sure "available at" is italicized
