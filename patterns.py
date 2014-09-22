@@ -1,3 +1,4 @@
+###############################################################################
 # General:
 
 # TODO en dash instead of hyphen between numerals
@@ -8,6 +9,7 @@
 
 # TODO remove repeated commas: ,,
 
+###############################################################################
 # Bluebook (and other legal writing):
 
 # TODO make sure "available at" is italicized
@@ -16,3 +18,8 @@
 # /See, e.g.[ITAL],[/ITAL]/
 
 # TODO detect "statue" (because the author probably meant "statute")
+
+# TODO detect the ellipsis character (because the Bluebook inexplicably 
+# forbids it)
+
+# TODO add space in F.Supp. (--> F. Supp.)
