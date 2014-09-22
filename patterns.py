@@ -10,7 +10,7 @@
 # TODO remove repeated commas: ,,
 
 ###############################################################################
-# Bluebook (and other legal writing):
+# Bluebook (for American legal writing):
 
 # TODO make sure "available at" is italicized
 
@@ -23,3 +23,5 @@
 # forbids it)
 
 # TODO add space in F.Supp. (--> F. Supp.)
+
+# TODO italicize the period after id.
