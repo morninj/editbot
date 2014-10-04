@@ -9,6 +9,8 @@
 
 # TODO remove repeated commas: ,,
 
+# TODO capitalize Internet
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
