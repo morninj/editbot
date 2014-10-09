@@ -30,3 +30,6 @@
 
 # TODO supra note ## at ### --> supre note ##, at ### (i.e., add a comma after 
 # the note number
+
+# TODO in footnotes, make sure ## U.S.C. § ### is followed by the year of 
+# publication in parentheses
