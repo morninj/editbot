@@ -27,3 +27,6 @@
 # TODO add space in F.Supp. (--> F. Supp.)
 
 # TODO italicize the period after id.
+
+# TODO supra note ## at ### --> supre note ##, at ### (i.e., add a comma after 
+# the note number
