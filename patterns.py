@@ -13,6 +13,8 @@
 
 # TODO start-up -> startup
 
+# TODO wifi -> Wi-Fi
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
