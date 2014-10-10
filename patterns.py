@@ -15,6 +15,8 @@
 
 # TODO wifi -> Wi-Fi
 
+# TODO non-profit or non profit -> nonprofit
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
