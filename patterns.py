@@ -11,6 +11,8 @@
 
 # TODO capitalize Internet
 
+# TODO start-up -> startup
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
