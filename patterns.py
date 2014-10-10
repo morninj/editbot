@@ -33,3 +33,7 @@
 
 # TODO in footnotes, make sure ## U.S.C. § ### is followed by the year of 
 # publication in parentheses
+
+# TODO in footnotes, no space between n.#, fig.#, tbl.#
+
+# TODO roman type for common latin phrases: ex ante, de facto... et cetera
