@@ -17,6 +17,8 @@
 
 # TODO non-profit or non profit -> nonprofit
 
+# TODO case law | case-law -> caselaw
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
