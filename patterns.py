@@ -21,6 +21,8 @@
 
 # TODO Section [0-9]+ -> section [0-9]+
 
+# TODO Congress'[!s] -> Congress's
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
