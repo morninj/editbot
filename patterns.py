@@ -19,6 +19,8 @@
 
 # TODO case law | case-law -> caselaw
 
+# TODO Section [0-9]+ -> section [0-9]+
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
@@ -45,3 +47,5 @@
 # TODO in footnotes, no space between n.#, fig.#, tbl.#
 
 # TODO roman type for common latin phrases: ex ante, de facto... et cetera
+
+# TODO USC -> U.S.C.
