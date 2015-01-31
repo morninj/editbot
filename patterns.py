@@ -23,6 +23,10 @@
 
 # TODO Congress'[!s] -> Congress's
 
+# TODO Constitutional -> constitutional
+
+# TODO Congressional -> congressional
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
