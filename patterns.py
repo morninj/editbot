@@ -27,6 +27,8 @@
 
 # TODO Congressional -> congressional
 
+# TODO rm hyperlinks in Word docs
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
