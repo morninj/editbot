@@ -29,6 +29,10 @@
 
 # TODO rm hyperlinks in Word docs
 
+# TODO kerning between single and double quotation marks
+
+# TODO space between § and any non-whitespace char
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
@@ -56,4 +60,4 @@
 
 # TODO roman type for common latin phrases: ex ante, de facto... et cetera
 
-# TODO USC -> U.S.C.
+# TODO USC -> U.S.C., CFR -> C.F.R.
