@@ -27,16 +27,7 @@
 
 # TODO Congressional -> congressional
 
-# TODO rm hyperlinks in Word docs
-
-# TODO kerning between single and double quotation marks
-
-# TODO space between § and any non-whitespace char
-
-# TODO find [[ or ]]
-
-# TODO rm "take steps to"
-
+# TODO kerning for '" and "'
 
 ###############################################################################
 # Bluebook (for American legal writing):
@@ -65,4 +56,4 @@
 
 # TODO roman type for common latin phrases: ex ante, de facto... et cetera
 
-# TODO USC -> U.S.C., CFR -> C.F.R.
+# TODO USC -> U.S.C.
