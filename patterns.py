@@ -29,6 +29,8 @@
 
 # TODO kerning for '" and "'
 
+# TODO msword: remove all hyperlinks
+
 ###############################################################################
 # Bluebook (for American legal writing):
 
