@@ -9,7 +9,7 @@
 
 # TODO remove repeated commas: ,,
 
-# TODO capitalize Internet
+# TODO don't capitalize internet
 
 # TODO start-up -> startup
 
