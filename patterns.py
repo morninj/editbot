@@ -48,14 +48,9 @@
 
 # TODO italicize the period after id.
 
-# TODO supra note ## at ### --> supre note ##, at ### (i.e., add a comma after 
+# supra note ## at ### --> supra note ##, at ### (i.e., add a comma after 
 # the note number
 
-# TODO in footnotes, make sure ## U.S.C. § ### is followed by the year of 
-# publication in parentheses
+# in footnotes, no space between n.#, fig.#, tbl.#
 
-# TODO in footnotes, no space between n.#, fig.#, tbl.#
-
-# TODO roman type for common latin phrases: ex ante, de facto... et cetera
-
-# TODO USC -> U.S.C.
+# USC -> U.S.C.
